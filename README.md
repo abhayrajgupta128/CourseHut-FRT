@@ -29,9 +29,9 @@
   
   
 ## some links
-  1. github repositry : https://github.com/GJG-GUNDO/CourseHut-FRT-PROJECT
-  2. github pages link : https://gjg-gundo.github.io/CourseHut-FRT-PROJECT/
-  3. azure static web apps deployment link : https://ambitious-grass-0bddf3210.1.azurestaticapps.net/
+  1. github repositry : https://github.com/abhayrajgupta128/CourseHut-FRT
+  2. github pages link : https://abhayrajgupta128.github.io/CourseHut-FRT/
+  3. azure static web apps deployment link : https://yellow-mushroom-09c7aa310.5.azurestaticapps.net/services.html
   
   
 ## attached screenshots of the project 
